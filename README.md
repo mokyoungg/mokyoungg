@@ -1,4 +1,11 @@
-### Hi there 👋
+### 안녕하세요! 김영목입니다.
+#### 개발을 통해 사람들의 삶이 더 좋아지길 바랍니다. <br>바르고 빠르게 성장하기를 원합니다.
+
+#### Skills 💻
+- HTML/CSS
+- Java Script
+- React.js / Hooks
+- SASS / Styled-Components
 
 <!--
 **mokyoungg/mokyoungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
