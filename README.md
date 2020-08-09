@@ -11,6 +11,8 @@
 - SASS / Styled-Components
 - Git
 
+#### <a href="https://drive.google.com/file/d/1zqQ25qq2ICa7InIBDTpiMsit36mL5t6q/view?usp=sharing" style="text-decoration:none" target="_blank">Resume📋</a>
+
 <!--
 **mokyoungg/mokyoungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
