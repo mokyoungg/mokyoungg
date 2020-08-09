@@ -3,7 +3,7 @@
 
 #### Skills 💻
 - HTML/CSS
-- Java Script
+- JavaScript
 - React.js / Hooks
 - SASS / Styled-Components
 
