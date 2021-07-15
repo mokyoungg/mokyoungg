@@ -7,8 +7,9 @@
 #### Skills 💻
 - HTML/CSS
 - JavaScript
+- TypeScript
 - React.js / Hooks
-- Redux
+- Redux / Redux-toolkit
 - SASS / Styled-Components
 - Git
 
