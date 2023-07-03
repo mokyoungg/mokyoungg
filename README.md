@@ -13,6 +13,10 @@
 - SASS / Styled-Components
 - Git
 
+#### Career 🏃🏻
+- 2021.08 - 2022.07 LOVO FE
+- 2022.08 - Currnet AAANT FE (work check here)
+
 #### <a href="https://drive.google.com/file/d/1zqQ25qq2ICa7InIBDTpiMsit36mL5t6q/view?usp=sharing" style="text-decoration:none" target="_blank">Resume📋</a>
 #### <a href="https://www.notion.so/0683744886ba4e76b22fbc2a0b66b03c" style="text-decoration:none" target="_blank">Notion Resume📋</a>
 
