@@ -9,6 +9,7 @@
 - JavaScript
 - TypeScript
 - React.js / Hooks
+- Next.js
 - Redux / Redux-toolkit
 - React Query
 - SASS / Styled-Components
