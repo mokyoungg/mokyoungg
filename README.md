@@ -10,6 +10,7 @@
 - TypeScript
 - React.js / Hooks
 - Redux / Redux-toolkit
+- React Query
 - SASS / Styled-Components
 - Git
 
